@@ -20,19 +20,10 @@ Tools: MATLAB, KiCad, Tinkercad, Canva, Slides, Docs
 
 Tech Areas: IoT, Circuit Design, PLC, SCADA
 
-📂 Projects:
-
-🔹 Smart Blind Assisting Shoe:
-    -An Arduino-based wearable with ultrasonic, GPS, GSM, and vibration modules to help visually impaired individuals navigate and send emergency alerts.
-    
-🔹 Drone-to-Drone Wireless Charging:
-    -Explored inductive coupling for energy exchange between drones to extend aerial operation time without landing.
-
-
 📫 Let's Connect 
 
 🔗 LinkedIn [ www.linkedin.com/in/](www.linkedin.com/in/  )  
-📧 [saisamicshashrid.eee2023@citchennai.net](saisamicshashrid.eee2023@citchennai.net)
+📧 Mail Id [saisamicshashrid.eee2023@citchennai.net](saisamicshashrid.eee2023@citchennai.net)
 
 
 
