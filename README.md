@@ -14,8 +14,10 @@
 
 🛠️ Skills:
 
-Languages: C, Python, Java (OOP)
+Languages: C, Python, Java (OOPs)
+
 Tools: MATLAB, KiCad, Tinkercad, Canva, Slides, Docs
+
 Tech Areas: IoT, Circuit Design, PLC, SCADA, Control Systems
 
 📂 Projects:
