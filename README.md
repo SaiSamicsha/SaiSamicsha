@@ -24,8 +24,8 @@ Tech Areas: IoT, Circuit Design, PLC, SCADA, Control Systems
 
 
 📫 Let's Connect 
-🔗 LinkedIn [](www.linkedin.com/in/) 
-📧 [](saisamicshashrid.eee2023@citchennai.net)
+🔗 LinkedIn [ www.linkedin.com/in/](www.linkedin.com/in/  )  
+📧 [saisamicshashrid.eee2023@citchennai.net](saisamicshashrid.eee2023@citchennai.net)
 
 
 
